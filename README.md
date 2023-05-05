@@ -39,5 +39,6 @@
 ## Xilinx Simulation Results of sub-blocks
 <ul>
   <li>Master block</li>
+  <br/>
   <img width="724" alt="waveform_spi" src="https://user-images.githubusercontent.com/99636505/236382193-65a6d91c-204c-45a6-9083-46f90387a18e.png">
   </ul>
