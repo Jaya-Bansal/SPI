@@ -43,5 +43,5 @@
   <img width="724" alt="waveform_spi" src="https://user-images.githubusercontent.com/99636505/236382193-65a6d91c-204c-45a6-9083-46f90387a18e.png">
   <li>Slave block</li>
   <br/>
-  ![2023-05-05 (1)](https://user-images.githubusercontent.com/99636505/236420435-3c41befc-916d-44a8-9e7c-98440f745004.png)
+  <img width="724" alt="waveform_spi" src="https://user-images.githubusercontent.com/99636505/236420663-a9417960-be57-4da6-9821-7d3eb8e54a61.png">
   </ul>
