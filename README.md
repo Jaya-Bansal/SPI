@@ -41,6 +41,7 @@
   <li>Master block</li>
   <br/>
   <img width="724" alt="waveform_spi" src="https://user-images.githubusercontent.com/99636505/236382193-65a6d91c-204c-45a6-9083-46f90387a18e.png">
+  <br/>
   <li>Slave block</li>
   <br/>
   <img width="724" alt="waveform_spi" src="https://user-images.githubusercontent.com/99636505/236420663-a9417960-be57-4da6-9821-7d3eb8e54a61.png">
