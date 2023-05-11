@@ -44,7 +44,7 @@
     <ul>
    <li> Our team began the project by conducting ideation and brainstorming sessions to gain a better understanding of the fundamentals of the SPI protocol, as well as its advantages over other communication protocols.
  <li>Once we had a clear understanding of the requirements, we proceeded to create a top-level design for our implementation, which included a block diagram to outline the various components and their interactions.
-<li>To ensure proper functionality, we then designed a finite state machine to govern the behavior of our implementation. 
+<li>To ensure proper functionality, we then designed a finite state machine to govern the behaviour of our implementation. 
 <li>This helped to ensure that the various components of our implementation worked together in a coordinated and efficient manner. 
 <li>Overall, this approach helped us to develop a clear roadmap for our project and ensured that we remained focused on the key requirements throughout the implementation process.
     </ul>
